@@ -1,3 +1,25 @@
+/* Ensure banner image is visible and not hidden by parent */
+.banner-section-three .image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+}
+
+.navbar-brand img,
+.logo img[alt="logo"] {
+  width: 300px;
+  height: 39px;
+  display: block;
+}
+
+/* Ensure all images are responsive and visible */
+img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
 /*
   Theme Name: Digiso - Digital Business Branding Agency HTML5 Template
   Support: 
