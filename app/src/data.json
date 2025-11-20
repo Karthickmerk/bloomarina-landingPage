@@ -1,0 +1,262 @@
+{
+    "header": {
+        "logo": "/images/logo.svg",
+        "menu": [
+            {
+                "label": "Home",
+                "link": "#",
+                "subItems": [
+                    {
+                        "label": "Home Hello",
+                        "link": "index.html"
+                    },
+                    {
+                        "label": "Home Two",
+                        "link": "home-two.html"
+                    },
+                    {
+                        "label": "Home Three",
+                        "link": "home-three.html"
+                    }
+                ]
+            },
+            {
+                "label": "Pages",
+                "link": "#",
+                "subItems": [
+                    {
+                        "label": "About Us",
+                        "link": "about-us.html"
+                    },
+                    {
+                        "label": "Service",
+                        "link": "service.html"
+                    },
+                    {
+                        "label": "Service Details",
+                        "link": "service-details.html"
+                    },
+                    {
+                        "label": "Team",
+                        "link": "team.html"
+                    },
+                    {
+                        "label": "Pricing",
+                        "link": "pricing.html"
+                    },
+                    {
+                        "label": "FAQs",
+                        "link": "faqs.html"
+                    },
+                    {
+                        "label": "Career",
+                        "link": "career.html"
+                    },
+                    {
+                        "label": "Career Details",
+                        "link": "career-details.html"
+                    },
+                    {
+                        "label": "Blog",
+                        "link": "blog.html"
+                    },
+                    {
+                        "label": "Blog Details",
+                        "link": "blog-details.html"
+                    },
+                    {
+                        "label": "404 Error",
+                        "link": "error404.html"
+                    }
+                ]
+            },
+            {
+                "label": "Portfolio",
+                "link": "#",
+                "subItems": [
+                    {
+                        "label": "Portfolio",
+                        "link": "portfolio.html"
+                    },
+                    {
+                        "label": "Portfolio Details",
+                        "link": "portfolio-details.html"
+                    }
+                ]
+            },
+            {
+                "label": "Contact",
+                "link": "contact.html"
+            }
+        ],
+        "cta": "Contact us"
+    },
+    "banner": {
+        "title": "Bloomarina - Innovating Your Digital World",
+        "description": "We craft impactful software solutions, compelling brands, creative designs, AI-driven strategies, and seamless digital experiences that help businesses grow smarter and faster.",
+        "cta": "Explore More",
+        "image": "/images/banner-three-img.png",
+        "stats": [
+            {
+                "number": "5+",
+                "label": "Years of Experience"
+            },
+            {
+                "number": "10+",
+                "label": "Projetcs Handover"
+            }
+        ]
+    },
+    "about": {
+        "title": "Empowering Businesses with Technology & Creativity",
+        "description": "From startups to enterprises, we deliver software, branding, AI, marketing, and design services that inspire trust and accelerate digital transformation.",
+        "logos": [
+            "/images/about-logo-1.png",
+            "/images/about-logo-2.png",
+            "/images/about-logo-3.png",
+            "/images/about-logo-4.png",
+            "/images/about-logo-5.png",
+            "/images/about-logo-6.png"
+        ],
+        "videoImage": "/images/about-us-img-2.png",
+        "videoLink": "https://www.youtube.com/watch?v=PkkV1vLHUvQ"
+    },
+    "services": {
+        "title": "Our Feature Services",
+        "description": "We craft impactful software solutions, compelling brands, creative designs, AI-driven strategies, and seamless digital experiences that help businesses grow smarter and faster.",
+        "viewAllLink": "service.html",
+        "items": [
+            {
+                "title": "Planning",
+                "description": "Software Development - Custom web, mobile, and enterprise solutions built to scale with innovation.",
+                "icon": "/images/service-icon-1.svg"
+            },
+            {
+                "title": "Branding",
+                "description": "Etiam sed odio dictum, tempus velit non, sollicitudin nutoeque. Donec quis aliquet velit.",
+                "icon": "/images/service-icon-2.svg"
+            },
+            {
+                "title": "Marketing",
+                "description": "Etiam sed odio dictum, tempus velit non, sollicitudin nutoeque. Donec quis aliquet velit.",
+                "icon": "/images/service-icon-5.svg"
+            }
+        ]
+    },
+    "projects": {
+        "title": "Some of our recent case studies.",
+        "description": "Crafting compelling digital experiences that captivate audiences and drive meaningful connections.",
+        "items": [
+            {
+                "title": "Our Feature Services",
+                "description": "Etiam sed odio dictum, tempus velit non, sollicitudin neque. Donec quis aliquet velit. Aliquam convallis dapibus purus.",
+                "image": "/images/project-3-img-1.png"
+            },
+            {
+                "title": "Our Feature Services",
+                "description": "Etiam sed odio dictum, tempus velit non, sollicitudin neque. Donec quis aliquet velit. Aliquam convallis dapibus purus.",
+                "image": "/images/project-3-img-2.png"
+            },
+            {
+                "title": "Our Feature Services",
+                "description": "Etiam sed odio dictum, tempus velit non, sollicitudin neque. Donec quis aliquet velit. Aliquam convallis dapibus purus.",
+                "image": "/images/project-3-img-3.png"
+            }
+        ]
+    },
+    "features": {
+        "title": "We work for better growing result step by step",
+        "description": "Crafting compelling digital experiences that captivate audiences and drive meaningful connections.",
+        "steps": [
+            {
+                "number": "01",
+                "title": "Briefing & Research",
+                "description": "Nor is there anyone who loves or pursues or desires to obtain pain litselfe because. Nor is there anyone who loves or pursues or desires to obtain pain litselfe because.",
+                "image": "/images/feature-img-1.png"
+            },
+            {
+                "number": "02",
+                "title": "Brainstorming",
+                "description": "Nor is there anyone who loves or pursues or desires to obtain pain litselfe because. Nor is there anyone who loves or pursues or desires to obtain pain litselfe because.",
+                "image": null
+            },
+            {
+                "number": "03",
+                "title": "Production",
+                "description": "Nor is there anyone who loves or pursues or desires to obtain pain litselfe because. Nor is there anyone who loves or pursues or desires to obtain pain litselfe because.",
+                "image": null
+            },
+            {
+                "number": "04",
+                "title": "Quality Assurance",
+                "description": "Nor is there anyone who loves or pursues or desires to obtain pain litselfe because. Nor is there anyone who loves or pursues or desires to obtain pain litselfe because.",
+                "image": "/images/feature-img-2.png"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "What our clients and partners reviews",
+        "description": "Crafting compelling digital experiences that captivate audiences and drive meaningful connections.",
+        "items": [
+            {
+                "text": "We cater to the creative needs of the broadest range of clients. Whether you are a for diev development agency looking to outsource design work, a company in search of a Product Designer.",
+                "author": "Deniel Karlos",
+                "role": "Senior Director",
+                "image": "/images/testimonial-3-author-img-1.png"
+            }
+        ]
+    },
+    "footer": {
+        "logo": "/images/logo.svg",
+        "pages": [
+            {
+                "label": "Home",
+                "link": "index.html"
+            },
+            {
+                "label": "Services",
+                "link": "service.html"
+            },
+            {
+                "label": "Portfolio",
+                "link": "portfolio.html"
+            },
+            {
+                "label": "Contact",
+                "link": "contact.html"
+            }
+        ],
+        "cms": [
+            {
+                "label": "Integration",
+                "link": "#"
+            },
+            {
+                "label": "Customers",
+                "link": "#"
+            },
+            {
+                "label": "Case Studies",
+                "link": "#"
+            },
+            {
+                "label": "Our Blog",
+                "link": "blog.html"
+            },
+            {
+                "label": "Careers",
+                "link": "career.html"
+            }
+        ],
+        "address": {
+            "title": "Branding Agency",
+            "location": "3F Mitaka Takagi Building, Musashino-shi,80-0006 Japan",
+            "socials": [
+                "/images/footer-icon-1.svg",
+                "/images/footer-icon-2.svg",
+                "/images/footer-icon-3.svg"
+            ]
+        },
+        "copyright": "All Right Reserved © 2024 Digiso"
+    }
+}
